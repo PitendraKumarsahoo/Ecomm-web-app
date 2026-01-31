@@ -6,8 +6,6 @@ It demonstrates the core concepts of **Advanced Java** such as MVC architecture,
 
 The web app allows users to register, log in, browse products, add them to the cart, and place orders — simulating a real-world online shopping platform.
 
----
-
 ## 🚀 Features
 - 👤 User Registration & Login System  
 - 🛍️ Product Listing and Details Page  
